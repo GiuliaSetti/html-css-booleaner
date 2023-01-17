@@ -8,12 +8,27 @@
 nav{   
     padding-top: 40px;
     padding-bottom: 10px;
+    padding-left: 10px;
 
     background-color: #4ea0ff ;
     background-image: url(../img/pattern.png);
     background-size: auto 200%; 
 }
 
-nav > img{
+nav img{
     height: 40px;
+}
+
+/* header */
+header{
+    margin-top: 10px;
+}
+
+.greytext{
+    color:grey;
+}
+
+.greytext a{
+    color: #30aee6;
+    text-decoration: none;
 }
