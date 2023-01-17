@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* nav */
+
+nav{   
+    padding-top: 40px;
+    padding-bottom: 10px;
+
+    background-color: #4ea0ff ;
+    background-image: url(../img/pattern.png);
+    background-size: auto 200%; 
+}
+
+nav > img{
+    height: 40px;
+}
