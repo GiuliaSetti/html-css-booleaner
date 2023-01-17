@@ -3,6 +3,11 @@
     box-sizing: border-box;
 }
 
+header, main, footer{
+    padding-left: 10px;
+}
+
+
 /* nav */
 
 nav{   
@@ -90,4 +95,15 @@ table .colored{
 
 .secondlink{
     background-image: url(../img/graph.jpg);
+}
+
+/* footer */
+
+hr{
+    color: #30aee6;
+    margin-top: 20px;
+}
+
+footer > div{
+    text-align: center;
 }
